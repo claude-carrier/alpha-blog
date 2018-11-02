@@ -42,8 +42,13 @@ $navbar-default-bg: #556050;
   background-color: #556050;
 }
 
+.article-meta-details {
+  border-top: 1px solid #eaeaea;
+  margin-top: 15px;
+}
+
 .article-actions {
-  border-top: 1px solid #556050;
+  border-top: 1px solid #eaeaea;
   padding-top: 5px;
 }
 
@@ -57,7 +62,7 @@ $navbar-default-bg: #556050;
 }
 
 .article-body {
-  border-top: 1px solid #556050;
+  border-top: 1px solid #eaeaea;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -66,7 +71,7 @@ footer {
   height: 30px;
   margin-top: 45px;
   padding-top: 5px;
-  border-top: 1px solid #000;
+  border-top: 1px solid #eaeaea;
   text-align: center;
   color: #fff;
   background-color: #556050;
